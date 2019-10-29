@@ -1,0 +1,33 @@
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\bin\Debug\ExcelInCsharp.exe.config
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\bin\Debug\ExcelInCsharp.exe
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\bin\Debug\ExcelInCsharp.pdb
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.csprojResolveAssemblyReference.cache
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\MainWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\App.g.cs
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp_MarkupCompile.cache
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp_MarkupCompile.lref
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\MainWindow.baml
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.g.resources
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.Properties.Resources.resources
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.csproj.GenerateResource.Cache
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.csproj.CoreCompileInputs.cache
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.exe
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.pdb
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\bin\Debug\EPPlus.dll
+D:\Work server\Team\Video hướng dẫn\Thao tác Excel trong C#\ExcelInCsharp\ExcelInCsharp\bin\Debug\EPPlus.xml
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\bin\Debug\ExcelInCsharp.exe.config
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.exe
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.pdb
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\bin\Debug\ExcelInCsharp.exe
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\bin\Debug\ExcelInCsharp.pdb
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\bin\Debug\EPPlus.dll
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\bin\Debug\EPPlus.xml
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.csprojResolveAssemblyReference.cache
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\MainWindow.g.cs
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\App.g.cs
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp_MarkupCompile.cache
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp_MarkupCompile.lref
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\MainWindow.baml
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.g.resources
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.Properties.Resources.resources
+C:\Users\VinhNhan\Desktop\ExcelInCsharp\ExcelInCsharp\obj\Debug\ExcelInCsharp.csproj.GenerateResource.Cache
